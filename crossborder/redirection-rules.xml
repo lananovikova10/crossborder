@@ -21,4 +21,8 @@
         <description>Created after removal of "自研型开发者操作教程" from crossborder</description>
         <accepts>自研型开发者操作教程.html</accepts>
     </rule>
+    <rule id="1c95e7b8">
+        <description>Created after removal of "Создать" from crossborder</description>
+        <accepts>Создать.html</accepts>
+    </rule>
 </rules>
