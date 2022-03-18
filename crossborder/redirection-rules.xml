@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/redirection-rules.dtd">
+<rules>
+    <rule id="7b82c2c7">
+        <description>Created after removal of "График динамики цен" from crossborder</description>
+        <accepts>График_динамики_цен.html</accepts>
+    </rule>
+    <rule id="309d3b74">
+        <description>Created after removal of "Voorbeelde" from crossborder</description>
+        <accepts>Voorbeelde.html</accepts>
+    </rule>
+    <rule id="378ffbb2">
+        <description>Created after removal of "Test title" from crossborder</description>
+        <accepts>Test_title.html</accepts>
+    </rule>
+    <rule id="464d3b80">
+        <description>Created after removal of "Voorbeelde" from crossborder</description>
+        <accepts>Voorbeelde.html</accepts>
+    </rule>
+    <rule id="4ebfd484">
+        <description>Created after removal of "自研型开发者操作教程" from crossborder</description>
+        <accepts>自研型开发者操作教程.html</accepts>
+    </rule>
+</rules>

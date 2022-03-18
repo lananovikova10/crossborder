@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+
+<topic xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       title="About crossborder"
+       id="About crossborder">
+    
+    <section-starting-page>
+        <title>База знаний маркетплейса</title>
+        <description>Как продавать на площадке</description>
+        <tip-group>
+            <title>Как начать продавать</title>
+            <a href="В_личном_кабинете.md" type="cross-platform">Загрузка товаров
+            </a>
+            <a href="Собрать_и_отправить_заказы.md" type="container">Отправка заказов
+            </a>
+            <a href="Рекламные_кампании.md" type="network">Рекламные кампании
+            </a>
+        </tip-group>
+        <main-group>
+            <title>Ценообразование</title>
+            <a href="Управление_ценами.md">
+                Управление ценами
+            </a>
+            <a href="Рекомендованные_цены.md">
+                Рекомендованные цены
+            </a>
+        </main-group>
+        <highlighted-group>
+            <title>Общение с покупателями</title>
+            <a href="Чат_с_покупателем.md">Чат с покупателями
+            </a>
+        <a href="Правила_общения_с_покупателями.md">Правила общения
+        </a>
+        </highlighted-group>
+    </section-starting-page>
+
+</topic>

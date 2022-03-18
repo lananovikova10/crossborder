@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="ce"
+                 name="crossborder-en"
+                 start-page="crossborder-en-default.topic">
+
+    <toc-element id="crossborder-en-default.topic"/>
+    <toc-element id="Manage_products.md"/>
+</instance-profile>
