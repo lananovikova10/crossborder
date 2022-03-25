@@ -25,4 +25,12 @@
         <description>Created after removal of "Создать" from crossborder</description>
         <accepts>Создать.html</accepts>
     </rule>
+    <rule id="60b1b28f">
+        <description>Created after removal of "test.md" from crossborder</description>
+        <accepts>test.html</accepts>
+    </rule>
+    <rule id="5b69efca">
+        <description>Created after removal of "text" from crossborder</description>
+        <accepts>text.html</accepts>
+    </rule>
 </rules>

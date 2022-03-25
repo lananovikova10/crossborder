@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+
+<topic xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       title="text"
+       id="text">
+
+    <p>Start writing here.</p>
+    <tabs>
+        <tab title="Одежда и обувь">
+            <p>В одежде и обуви варианты товаров всегда отличаются только по цвету
+                и размеру. Например, вы хотите загрузить одинаковые футболки белого
+                и красного цвета, 42 и 44 размера. Тогда создайте 4 варианта товара:</p>
+            <list>
+                <li>белая футболка 42 размера</li>
+                <li>белая футболка 44 размера</li>
+                <li>красная** футболка 42 размера</li>
+                <li>красная** футболка 44 размера</li>
+            </list>
+            <p>У всех этих вариантов товаров должно быть:</p>
+            <list>
+            <li>разные **Артикулы**;</li>
+            <li>одинаковое **Название модели**;</li>
+            <li>разный **Российский размер** и/или разный **Цвет одежды или
+            обуви**.</li>
+            </list>
+
+    <p>Пример в XLS для итогового варианта:</p>
+
+    <table>
+        <tr>
+            <td>№</td>
+            <td>Артикул*</td>
+            <td>Название товара*</td>
+            <td>...</td>
+            <td>Российский размер*</td>
+            <td>...</td>
+            <td>Название модели*</td>
+            <td>Цвет одежды или обуви*</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>DSPSWW_white_42</td>
+            <td>Футболка Askur Sun-100</td>
+            <td>
+            </td>
+            <td>42</td>
+            <td>
+            </td>
+            <td>Sun-100</td>
+            <td>белый</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>DSPSWW_white_44</td>
+            <td>Футболка Askur Sun-100</td>
+            <td>
+            </td>
+            <td>44</td>
+            <td>
+            </td>
+            <td>Sun-100</td>
+            <td>белый</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>DSPSWW_red_44</td>
+            <td>Футболка Askur Sun-100</td>
+            <td>
+            </td>
+            <td>42</td>
+            <td>
+            </td>
+            <td>Sun-100</td>
+            <td>красный</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>DSPSWW_red_44</td>
+            <td>Футболка Askur Sun-100</td>
+            <td>
+            </td>
+            <td>44</td>
+            <td>
+            </td>
+            <td>Sun-100</td>
+            <td>красный</td>
+        </tr>
+        <tr>
+            <td>Пояснения:</td>
+            <td>Разные артикулы</td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>Один размер — один товар</td>
+            <td>
+            </td>
+            <td>Одинаковое название модели</td>
+            <td>Один цвет — один товар</td>
+        </tr>
+    </table>
+    <p>Чтобы узнать, по каким параметрам отличаются варианты товаров,
+        посмотрите карточки в этой категории. Например, шампуни отличаются
+        по объему:</p>
+    <img src="123502986.png" alt="shampoo" width="400"/>
+</tab>
+<tab title="Другие категории">
+<p>Если вы хотите загрузить одинаковый шампунь объемом 200 и 400 мл,
+    создайте два варианта товара:</p>
+<list><li>шампунь **200** мл</li>
+    <li>шампунь **400** мл</li></list>
+<p>У обоих вариантов товаров должно быть:</p>
+<list><li>разные **Артикулы**;</li>
+    <li>разный **Объем**;</li>
+    <li>одинаковое **Название модели**.</li></list>
+
+<p>Пример в XLS:</p>
+
+<table>
+    <tr>
+        <td>№</td>
+        <td>Артикул*</td>
+        <td>Название товара*</td>
+        <td>...</td>
+        <td>Объем, мл</td>
+        <td>Название модели</td>
+    </tr>
+    <tr>
+        <td style="text-align: left;">1</td>
+        <td style="text-align: center;">GK_ext_200</td>
+        <td style="text-align: center;">Gliss Kur Шампунь «Экстремальное восстановление»</td>
+        <td>
+        </td>
+        <td>200</td>
+        <td>GKExt</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>GK_ext_400</td>
+        <td>Gliss Kur Шампунь «Экстремальное восстановление»</td>
+        <td><br />
+        </td>
+        <td>400</td>
+        <td>GKExt</td>
+    </tr>
+    <tr>
+        <td>Пояснения:</td>
+        <td>Разные артикулы</td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>Один объем — один товар</td>
+        <td>Одинаковое название модели</td>
+    </tr>
+</table>
+</tab></tabs>
+
+</topic>

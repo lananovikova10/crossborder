@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="cz"
+                 name="crossborder-zh"
+                 start-page="crossborder-zh-default.topic">
+
+    <toc-element id="crossborder-zh-default.topic"/>
+    <toc-element id="商品运作 .md"/>
+</instance-profile>

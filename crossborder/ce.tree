@@ -7,5 +7,6 @@
                  start-page="crossborder-en-default.topic">
 
     <toc-element id="crossborder-en-default.topic"/>
+    <toc-element id="Product_Statuses_and_Availability.md"/>
     <toc-element id="Manage_products.md"/>
 </instance-profile>

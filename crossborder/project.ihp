@@ -9,4 +9,7 @@
     <images dir="images" version="1.0" web-path="images/"/>
     <vars src="v.list"/>
     <instance src="c.tree" version="1.0"/>
+    <instance src="ce.tree" version="1.0"/>
+    <instance src="cz.tree" version="1.0"/>
+
 </ihp>
