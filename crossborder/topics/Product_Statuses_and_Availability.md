@@ -15,6 +15,25 @@ Visibility shows whether the PDP is available on Ozon. All foreign sellers work 
 so you should pay attention to FBS visibility. FBO visibility is not relevant for you. 
 It is displayed for sellers who work using the FBO scheme.
 
+``` python
+a = 5
+b = 6
+c = 7
+
+# Uncomment below to take inputs from the user
+# a = float(input('Enter first side: '))
+# b = float(input('Enter second side: '))
+# c = float(input('Enter third side: '))
+
+# calculate the semi-perimeter
+s = (a + b + c) / 2
+
+# calculate the area
+area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
+print('The area of the triangle is %0.2f' %area)
+```
+{collapsible="true" show-white-spaces="true" collapsed-title="Python Program to find the area of triangle"}
+
 <table>
 <tr>
 <td>Main

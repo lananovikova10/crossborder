@@ -6,7 +6,6 @@
                  name="crossborder"
                  start-page="About crossborder.topic"
                   status="eap">
-
     <toc-element id="About crossborder.topic"/>
     <toc-element toc-title="Загрузка товаров">
         <toc-element id="В_личном_кабинете.md"/>
