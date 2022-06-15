@@ -33,4 +33,8 @@
         <description>Created after removal of "text" from crossborder</description>
         <accepts>text.html</accepts>
     </rule>
+    <rule id="38fda201">
+        <description>Created after removal of "section" from crossborder-en</description>
+        <accepts>section.html</accepts>
+    </rule>
 </rules>

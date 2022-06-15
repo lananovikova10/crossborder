@@ -6,6 +6,6 @@
                  name="crossborder-zh"
                  start-page="crossborder-zh-default.topic">
 
-    <toc-element id="crossborder-zh-default.topic"/>
-    <toc-element id="商品运作 .md"/>
+    <toc-element topic="crossborder-zh-default.topic"/>
+    <toc-element topic="商品运作 .md"/>
 </instance-profile>

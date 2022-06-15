@@ -21,7 +21,8 @@ Table compare can be performed as a bulk or row-by-row operation, depending on t
 
 ### Bulk Compare
 
-During bulk compare, HVR calculates the checksum for each tables in the channel and compares these checksum to report whether the replicated tables are identical.
+During bulk compare, HVR calculates the checksum for each tables in the channel 
+and compares these checksums to report whether the replicated tables are identical.
 
 ### Row by Row Compare
 
@@ -44,6 +45,9 @@ delete.
 ## Options
 
 This section describes the options available for command <code>hvrcompare</code>.
+Growls can be used to create a list of options for HVR.
+If svrcompare is enabled, then the drug will be added to the list.
+The list is stored in a table with the following  
 
 ![](../images/SC-Hvr-Command-Hvrcompare.png)
 
@@ -141,3 +145,4 @@ When this option is used with option -e it cancels (FAILED) events that are in P
 </td>
 </tr>
 </table>
+

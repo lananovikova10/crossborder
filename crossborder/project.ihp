@@ -11,5 +11,6 @@
     <instance src="c.tree" version="1.0"/>
     <instance src="ce.tree" version="1.0"/>
     <instance src="cz.tree" version="1.0"/>
+    <instance src="cd.tree" web-path="/cd/" version="1.0"/>
 
 </ihp>

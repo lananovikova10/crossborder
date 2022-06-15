@@ -6,8 +6,11 @@
                  name="crossborder-en"
                  start-page="crossborder-en-default.topic">
 
-    <toc-element id="crossborder-en-default.topic"/>
-    <toc-element id="Product_Statuses_and_Availability.md"/>
-    <toc-element id="Manage_products.md"/>
-    <toc-element id="Complex_table_topic.md"/>
+    <toc-element topic="crossborder-en-default.topic"/>
+    <toc-element topic="Gradle.md"/>
+    <toc-element topic="Gradle_Plugin.topic"/>
+    <toc-element topic="Product_Statuses_and_Availability.md"/>
+    <toc-element topic="Manage_products.md"/>
+    <toc-element topic="Complex_table_topic.md"/>
+    <include from="c" target="install"/>
 </instance-profile>

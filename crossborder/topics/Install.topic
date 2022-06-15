@@ -3,9 +3,14 @@
 
 <topic xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       title="Getting started"
-       id="crossborder-en-default">
+       title="Install"
+       id="Install">
 
-    Let's see what we have to say about crossborder-en
+    <p>Start writing here.</p>
+    <chapter level="1" title="HI">
+        <chapter level="1" title="Hello">
+            <p>TTT</p>
+        </chapter>
+    </chapter>
 
 </topic>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+
+<topic xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       title="section"
+       id="section">
+
+    <section-starting-page>
+        <spotlight>
+            <title>Test</title>
+            <a href="crossborder-en-default.topic" summary="Summary"/>
+        </spotlight>
+        <primary>
+            <title>Test</title>
+            <a href="crossborder-en-default.topic" summary="Summary"/>
+            <a href="crossborder-en-default.topic" summary="Summary"/>
+        </primary>
+    </section-starting-page>
+</topic>
